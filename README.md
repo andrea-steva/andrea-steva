@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/stevanato-andrea" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://medium.com/@andr3a88" target="blank">
+  <a href="https://andrea-steva.medium.com" target="blank">
     <img src="https://img.shields.io/badge/Medium-Blog-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
 </p>

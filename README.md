@@ -51,6 +51,6 @@ I love exploring **SwiftUI, Combine, Swift Concurrency** and applying best pract
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andr3a88&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andr3a88&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andrea-steva&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrea-steva&layout=compact&theme=tokyonight&hide_border=true" />
 </p>

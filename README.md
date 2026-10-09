@@ -13,7 +13,7 @@
 I build modern, maintainable iOS apps with a focus on **SwiftUI**, **Swift Concurrency** and well-tested architecture. I enjoy turning product ideas into polished, reliable mobile experiences, and I bring a product/design mindset and clear stakeholder communication to the engineering side.
 
 - 🔭 Currently exploring: Swift 6 strict concurrency, Swift Testing, Combine → async/await migrations, and Flutter
-- 🌱 Always learning: app architecture, performance and accessibility
+- 🌱 Always learning: app architecture, performance and user experience.
 - ✍️ I write about iOS development on [Medium](https://andrea-steva.medium.com)
 
 ---
@@ -51,6 +51,7 @@ I build modern, maintainable iOS apps with a focus on **SwiftUI**, **Swift Concu
 ### 🚀 Featured projects
 - 🔥 **[GrillMate](https://github.com/andrea-steva/grillmate-showcase)** *(WIP)* – a native iOS barbecue logbook for tracking cooks, grills and recipes, with stats and iCloud sync. Built with SwiftUI, Swift 6 strict concurrency, Core Data + CloudKit and Swift Charts, in a modular Swift package architecture (MVVM, Tuist, SwiftLint, Swift Testing). The app's source is private, the showcase repo covers features, architecture and technical highlights. [Website](https://grillmate.pages.dev)
 - 🔘 **[FloatingMenuButton](https://github.com/andrea-steva/FloatingMenuButton)** – a lightweight, customizable SwiftUI floating action button that expands into a menu of actions. Distributed as a Swift Package with an example app and unit tests.
+- ⏳ **[ASProgressHud](https://github.com/andrea-steva/ASProgressHud)** *(no longer maintained)* – a small Swift library for showing a customizable loading HUD on iOS, with a default loader or your own PNG animation frames. Available via CocoaPods.
 
 ---
 

@@ -1,56 +1,61 @@
 <h1 align="center">Hi 👋, I'm Andrea</h1>
-<h3 align="center">iOS Developer | Swift & Clean Code Enthusiast</h3>
+<h3 align="center">iOS Developer · Swift, SwiftUI & clean, testable code</h3>
 
 <p align="center">
-  <a href="https://x.com/andrea_steva" target="blank">
-    <img src="https://img.shields.io/twitter/follow/andrea_steva?logo=twitter&style=for-the-badge" alt="andrea_steva" />
-  </a>
-  <a href="https://linkedin.com/in/stevanato-andrea" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://andrea-steva.medium.com" target="blank">
-    <img src="https://img.shields.io/badge/Medium-Blog-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
+  <a href="https://linkedin.com/in/stevanato-andrea"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://andrea-steva.medium.com"><img src="https://img.shields.io/badge/Medium-Blog-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://x.com/andrea_steva"><img src="https://img.shields.io/badge/X-@andrea__steva-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-I'm a passionate **iOS Developer** focused on building clean, maintainable, and modern Swift applications.  
-I love exploring **SwiftUI, Combine, Swift Concurrency** and applying best practices in **Swift Testing**.
+### 👨‍💻 About me
+I build modern, maintainable iOS apps with a focus on **SwiftUI**, **Swift Concurrency** and well-tested architecture. I enjoy turning product ideas into polished, reliable mobile experiences, and I bring a product/design mindset and clear stakeholder communication to the engineering side.
+
+- 🔭 Currently exploring: Swift 6 strict concurrency, Swift Testing, Combine → async/await migrations, and Flutter
+- 🌱 Always learning: app architecture, performance and accessibility
+- ✍️ I write about iOS development on [Medium](https://andrea-steva.medium.com)
 
 ---
 
-### 🍏 iOS / Swift Frameworks
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="20" height="20"/> [Swift](https://developer.apple.com/swift/)
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="20" height="20"/> [SwiftUI](https://developer.apple.com/xcode/swiftui/)
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" height="20"/> [Combine](https://developer.apple.com/documentation/combine)
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="20" height="20"/> [Swift Concurrency](https://docs.swift.org/swift-book/ReferenceManual/Concurrency.html)
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="20" height="20"/> [Swift Testing (XCTest)](https://developer.apple.com/documentation/xctest)
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="20" height="20"/> [CoreData](https://developer.apple.com/documentation/coredata)
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bluetooth/bluetooth-original.svg" width="20" height="20"/> [CoreBluetooth](https://developer.apple.com/documentation/corebluetooth)
+### 🛠 Tech stack
 
+**iOS**
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
+![Combine](https://img.shields.io/badge/Combine-5E5CE6?style=flat-square&logo=apple&logoColor=white)
+![Swift Concurrency](https://img.shields.io/badge/Swift_Concurrency-F05138?style=flat-square&logo=swift&logoColor=white)
+![Swift Testing](https://img.shields.io/badge/Swift_Testing_/_XCTest-34C759?style=flat-square&logo=xcode&logoColor=white)
+![Core Data](https://img.shields.io/badge/Core_Data-1575F9?style=flat-square&logo=apple&logoColor=white)
+![Core Bluetooth](https://img.shields.io/badge/Core_Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+
+**Cross-platform & data**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter_(exploring)-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Realm](https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=realm&logoColor=white)
+
+**Backend & tooling**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
 ---
 
-### 🖥 Backend & Tools
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="20" height="20"/> [Node.js](https://nodejs.org)
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="20" height="20"/> [MongoDB](https://www.mongodb.com/)
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="20" height="20"/> [Docker](https://www.docker.com/)
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" width="20" height="20"/> [Heroku](https://www.heroku.com/)
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="20" height="20"/> [Redis](https://redis.io)
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="20" height="20"/> [Jenkins](https://www.jenkins.io)
+### 🚀 Featured projects
+- 🔥 **[GrillMate](https://github.com/andrea-steva/grillmate-showcase)** *(WIP)* – a native iOS barbecue logbook for tracking cooks, grills and recipes, with stats and iCloud sync. Built with SwiftUI, Swift 6 strict concurrency, Core Data + CloudKit and Swift Charts, in a modular Swift package architecture (MVVM, Tuist, SwiftLint, Swift Testing). The app's source is private, the showcase repo covers features, architecture and technical highlights. [Website](https://grillmate.pages.dev)
+- 🔘 **[FloatingMenuButton](https://github.com/andrea-steva/FloatingMenuButton)** – a lightweight, customizable SwiftUI floating action button that expands into a menu of actions. Distributed as a Swift Package with an example app and unit tests.
 
 ---
 
-### 📱 Mobile Frameworks
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" height="20"/> [React Native](https://reactnative.dev/)
-- <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" width="20" height="20"/> [Realm](https://realm.io/)
-
----
-
-### 📊 GitHub Stats
+### 📊 GitHub stats
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andrea-steva&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrea-steva&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=andrea-steva&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrea-steva&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
